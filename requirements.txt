@@ -1,0 +1,24 @@
+openai-whisper
+groq
+deep-translator
+diffusers
+matplotlib
+huggingface_hub
+accelerate
+safetensors
+pip==24.2
+setuptools>=42
+numpy<2.0  # Ensure compatibility with other modules
+httpx>=0.23.0,<0.24.0
+httpcore>=0.15.0,<0.16.0
+wheel>=0.38.1
+requests
+Pillow
+joblib
+indic-transliteration
+transformers==4.30.0
+torch==1.11.0
+gradio==3.12.0
+Cython>=0.29.33
+scikit-learn==1.0.2
+openai==0.28
